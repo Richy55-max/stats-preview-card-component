@@ -11,7 +11,7 @@ Thanks for checking out this front-end coding challenge.
 
 ## The challenge
 
-Challenge is to build out this card component and get it looking as close to the design as possible.
+Challenge is to build out this Stats preview card component and get it looking as close to the design as possible.
 
 ### Built with
 
@@ -31,7 +31,7 @@ I want to continue incorporating new things I learn into my Frontend Mentor proj
 
 ### Useful resources
 
-- [MDN WEB DOCS](https://stackoverflow.com/questions/33986068/change-image-background-color-on-hover) - This allowed me to know how the content of an element should blend with the content of the parent element and its background using the mix-blend-mode property... I really liked this pattern and will use it going forward.
+- [MDN WEB DOCS](https://developer.mozilla.org/fr/docs/Web/CSS/mix-blend-mode) - This allowed me to know how the content of an element should blend with the content of the parent element and its background using the mix-blend-mode property... I really liked this pattern and will use it going forward.
 
 
 ## Author
@@ -42,4 +42,3 @@ I want to continue incorporating new things I learn into my Frontend Mentor proj
 - Twitter - [@arnaud_hf](https://twitter.com/arnaud_hf)
 
 
-**Have fun building!** 🚀
